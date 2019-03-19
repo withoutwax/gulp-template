@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAAA,KACI,sBAAuB,CAD3B,QAIQ,UAAW,CAJnB,OAOQ,UAAW","file":"index.css","sourcesContent":["body {\n    background-color: beige;\n\n    h1 {\n        color: teal;\n    }\n    p {\n        color: grey;\n    }\n}\n"]}
